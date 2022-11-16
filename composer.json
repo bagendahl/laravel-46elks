@@ -14,6 +14,12 @@
         {
             "name": "Tariqul Islam",
             "email": "tarre.islam@gmail.com"
+        },
+        {
+            "name": "Patrick B",
+            "email": "patrick@be-it.se",
+            "homepage": "https://be-it.se",
+            "role": "Hotfixer"
         }
     ],
     "minimum-stability": "stable",
